@@ -1,0 +1,6 @@
+Flask==2.2.2
+Werkzeug==2.2.2
+requests==2.26.0
+langdetect==1.0.9
+pyttsx3==2.90
+vosk==0.3.45
